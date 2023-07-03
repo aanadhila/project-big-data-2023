@@ -55,6 +55,7 @@ Kurvanya terlihat seperti siku. Dalam plot di atas, siku berada pada k=3 (yaitu,
 ![](img/gb7.jpg)
 
 8. Hasil
+
 ![](img/hasil1.jpg)
 ![](img/hasil2.jpg)
 ![](img/hasil3.jpg)
